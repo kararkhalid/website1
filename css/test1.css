@@ -181,7 +181,7 @@ a {
 /* end header style */
 /* start landing section */
 .landing{
-    background-image: url(../img/landing.png);
+    background-image: url(./landing.png);
     background-attachment: fixed;
     background-size: cover;
     height:calc(100vh - 64px);
